@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "KurwaMessengerTDD"
 include(":app")
+include(":domain")
